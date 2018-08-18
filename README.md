@@ -9,7 +9,7 @@ As soon as the EOS mainnet launches, we will STOP giving away our free pandas.
 So please go to our website and get your free pandas:  http://pandafun.io 
 
 And 
-<p>whitepaper enginsh edition: https://github.com/pandafunx/doc/raw/master/PandaFun%20Game%20Whitepaper%20ENGLISH.pdf</p>
+<p>whitepaper english edition: https://github.com/pandafunx/doc/raw/master/PandaFun%20Game%20Whitepaper%20ENGLISH.pdf</p>
 <p>whitepaper chinese edition: https://github.com/pandafunx/doc/raw/master/PandaFun%20Game%20Whitepaper%20CHINESE.pdf</p>
 Please feel free to download and take a look.
 
